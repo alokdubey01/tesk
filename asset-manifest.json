@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.852a7545.chunk.css",
+    "main.js": "/static/js/main.438aae30.chunk.js",
+    "main.js.map": "/static/js/main.438aae30.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3b398055.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3b398055.js.map",
+    "static/js/2.97130f39.chunk.js": "/static/js/2.97130f39.chunk.js",
+    "static/js/2.97130f39.chunk.js.map": "/static/js/2.97130f39.chunk.js.map",
+    "static/js/3.e0eec502.chunk.js": "/static/js/3.e0eec502.chunk.js",
+    "static/js/3.e0eec502.chunk.js.map": "/static/js/3.e0eec502.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.852a7545.chunk.css.map": "/static/css/main.852a7545.chunk.css.map",
+    "static/js/2.97130f39.chunk.js.LICENSE.txt": "/static/js/2.97130f39.chunk.js.LICENSE.txt",
+    "static/media/Doctor.14409055.svg": "/static/media/Doctor.14409055.svg",
+    "static/media/Icon - Sehat Easy.3de1d4f2.png": "/static/media/Icon - Sehat Easy.3de1d4f2.png",
+    "static/media/App.css": "/static/media/familly.a8afb68b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b398055.js",
+    "static/js/2.97130f39.chunk.js",
+    "static/css/main.852a7545.chunk.css",
+    "static/js/main.438aae30.chunk.js"
+  ]
+}
